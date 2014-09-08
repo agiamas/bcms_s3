@@ -1,3 +1,3 @@
 module BcmsS3
-  VERSION = "1.0.2"
+  VERSION = "4.0.0"
 end
